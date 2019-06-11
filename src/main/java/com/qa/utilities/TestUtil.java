@@ -11,5 +11,11 @@ public class TestUtil {
 	{
 		System.out.println("Util Method");
 	}
+	
+	public void testUtil2()
+	{
+		System.out.println("Util Method");
+	}
+
 
 }
