@@ -7,4 +7,9 @@ public class TestUtil {
 		System.out.println("Util Method");
 	}
 
+	public void testUtil1()
+	{
+		System.out.println("Util Method");
+	}
+
 }
